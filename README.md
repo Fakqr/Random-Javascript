@@ -1,2 +1,3 @@
-# Random-Javascript
-Random Javascript
+# Random Javascript
+
+## Basically just Random Javascript that I have made lol
